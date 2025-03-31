@@ -1,13 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head> 
-      <meta charset="UTF=8" />
-      <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
-      <title>Test</title>
-      <link rel="stylesheet" href="./style.css" />=
-    </head>
-    <body>
-      <h1>Hello World</h1>
-      <p>This is for testing!</p>
-    </body>
-</html>
+---
+title: Home
+layout: default
+---
+
+# Welcome to My Cybersecurity Portfolio
+
+This is a test page to explore GitHub Pages and Jekyll.
+
+[About](about.md) | [Contact](contact.md)
