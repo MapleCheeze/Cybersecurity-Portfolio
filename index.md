@@ -7,4 +7,4 @@ layout: default
 
 This is a test page to explore GitHub Pages and Jekyll.
 
-[About](about.md) | [Contact](contact.md)
+[About](about.md) | [Contact](contact.md) | [Blog](blog.md) 
